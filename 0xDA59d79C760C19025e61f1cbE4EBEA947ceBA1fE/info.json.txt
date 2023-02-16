@@ -1,10 +1,10 @@
 {
  "name": "ShenShouS",
- "website": "https://ShenShouS.wet.net",
- "description": "ShenShouSIs a fascinating blockchain application.",
+ "website": "https://ShenShouS.cc",
+ "description": "ShenShouS Is a good blockchain application",
  "explorer": "https://bscscan.com/token/0xDA59d79C760C19025e61f1cbE4EBEA947ceBA1fE",
- "type": "BSC",
- "symbol": "TPT",
+ "type": "BEP20",
+ "symbol": "ShenShouS",
  "decimals": 18,
  "status": "active",
  "id": "0xDA59d79C760C19025e61f1cbE4EBEA947ceBA1fE"
